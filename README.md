@@ -28,7 +28,7 @@ There are some steps for installation
 5.  Download the project. Run it in your system.
 
 # Dataset:
-In the given dataset there are following columns such as gender, age, name, etc. In the dataset, those who survived are mentioned with a label "!" and those who are not with"0".
+In the given dataset there are following columns such as gender, age, name, etc. In the dataset, those who survived are mentioned with a label "1" and those who are not with"0".
 
 Note: The dataset is downloaded from Kaggle: "https://www.kaggle.com/c/titanic".
 
